@@ -1,0 +1,10 @@
+mdi2.json
+cc.json
+prak_mdi2.json
+prak_kdata.json
+moprog.json
+uiux.json
+kdata.json
+pprofesi.json
+kadeham.json
+gmni-ppab.json
